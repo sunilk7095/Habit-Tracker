@@ -15,8 +15,6 @@ This project helps users create habits, mark daily completion, and visualize pro
 * ✅ Single-file full-stack implementation
 
 ## 🛠️ Tech Stack
-
-
 **Backend**
 
 * Node.js
